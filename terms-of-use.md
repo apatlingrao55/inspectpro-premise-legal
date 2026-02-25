@@ -1,0 +1,250 @@
+---
+layout: default
+title: Terms of Use
+---
+
+# InspectPro Terms of Use
+
+**Last Updated: February 2026**
+**Terms Version: 1.1**
+
+## 1. Agreement to Terms
+
+By downloading, installing, or using InspectPro ("the App"), you agree to be bound by these Terms of Use ("Terms") and our Privacy Policy. If you do not agree to these Terms, do not use the App.
+
+You will be asked to explicitly accept these Terms on first launch before you can use the App. Your acceptance is recorded locally on your device along with a timestamp, the App version, and the Terms version. If we update these Terms, you will be asked to re-accept the updated version before continuing to use the App.
+
+## 2. Description of Service
+
+InspectPro is a mobile application designed to assist property inspection professionals with creating inspection reports, documenting findings with photos, and generating PDF reports.
+
+**InspectPro is an assistive tool only.** The App does not provide professional advice, certifications, or guarantees of any kind. It does not replace the professional judgment, expertise, qualifications, or licensing of the user.
+
+## 3. License
+
+We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for your personal or professional use, subject to these Terms.
+
+You may NOT:
+
+- Copy, modify, or distribute the App
+- Reverse engineer or attempt to extract the source code
+- Use the App for any illegal purpose
+- Sublicense, sell, or transfer your rights to the App
+- Remove, alter, or obscure any disclaimer, watermark, or status indicator displayed by the App
+
+## 4. Free Trial
+
+- New users receive a 7-day free trial with full access to all features
+- After the trial period, PDF reports will include a watermark indicating they are unofficial previews
+- Subscribe or purchase a report credit to remove watermarks and continue using premium features
+- No payment is required during the trial period
+
+## 5. Report Status and Watermarks
+
+### 5.1 Report States
+
+Reports created in the App may exist in the following states:
+
+- **Draft**: The report is a work in progress and has not been finalised. Draft reports are clearly marked "DRAFT REPORT — NOT FINAL" and should not be relied upon or distributed to clients.
+- **Watermarked Preview**: Reports exported before purchase or during an expired trial are marked "UNOFFICIAL PREVIEW — NOT A FINAL REPORT." These are for reference only and are not intended for professional distribution.
+- **Approved**: The inspector has reviewed and explicitly approved the report for client delivery. Approved reports include audit metadata (see Section 5.3).
+
+### 5.2 Sending Reports
+
+- If you attempt to send a report that is still in Draft status, you will be asked to explicitly confirm that you intend to send an unfinished report.
+- Approved reports may be sent without additional confirmation.
+- You acknowledge that you are solely responsible for ensuring a report is accurate and complete before sharing it with any third party.
+
+### 5.3 Audit Trail and Report Metadata
+
+Each report contains embedded metadata including a unique Report ID, inspection date, version number, and a content snapshot hash. When a report is approved, the approver's name, approval timestamp, and approval method are also recorded. This metadata is displayed in the PDF footer for traceability. No precise GPS coordinates are stored or embedded — only the property address and area descriptions you provide.
+
+## 6. Purchases
+
+### 6.1 Purchase Options
+
+- **Monthly Subscription**: Billed monthly with recurring auto-renewal. Provides unlimited watermark-free PDF exports for the duration of the subscription.
+- **Per-Report Purchase**: A one-time, non-recurring purchase that grants one watermark-free PDF export. Each report credit is consumed when you share or save a clean PDF.
+
+### 6.2 Billing
+
+- Payment will be charged to your Apple ID account at confirmation of purchase
+- Monthly subscriptions automatically renew unless canceled at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- Per-report purchases are consumable and do not renew
+- Per-report credits are stored locally on your device. **Credits cannot be restored** after they have been used, and unused credits may be lost if you uninstall the App, reset your device, or clear App data. Monthly subscriptions can be restored via "Restore Purchase" because they are managed by Apple; per-report credits cannot be restored because their usage is tracked locally
+- You can manage and cancel subscriptions in your Apple ID Account Settings
+
+### 6.3 Price Changes
+
+- Prices are subject to change
+- We will notify you of any price changes before they take effect
+- Continued use after price changes constitutes acceptance of new prices
+
+### 6.4 Refunds
+
+- All purchases are processed through Apple
+- Refund requests must be made through Apple's refund process
+- We do not have the ability to process refunds directly
+
+## 7. User Content
+
+### 7.1 Your Content
+
+- You retain ownership of all content you create using the App (photos, notes, reports)
+- You are solely responsible for all content you create and share
+- You represent that you have all necessary rights to use and share your content
+
+### 7.2 Content Storage
+
+- All content is stored locally on your device
+- We do not have access to your content
+- You are responsible for backing up your own data
+
+### 7.3 Content Accuracy
+
+- You are solely responsible for the accuracy, completeness, and legality of all information in your inspection reports
+- The App does not verify, validate, or certify any content you enter
+- Any photos, severity ratings, comments, or findings reflect your professional assessment alone — not the opinion or endorsement of InspectPro
+
+## 8. Acceptable Use
+
+You agree NOT to use the App to:
+
+- Create false, misleading, or fraudulent inspection reports
+- Misrepresent a Draft or watermarked report as a finalised professional document
+- Remove, obscure, or alter any watermark, disclaimer, or status indicator
+- Violate any applicable laws or regulations
+- Infringe on the rights of others
+- Transmit harmful code or interfere with the App's operation
+
+## 9. Professional Responsibility and No-Reliance Disclaimer
+
+- **The App is an assistive tool only.** It is designed to help you document and organise your inspection findings. It does not perform inspections, analyse building conditions, or make professional recommendations.
+- **The App does not replace professional judgment or expertise.** You must independently verify all findings, apply your professional training, and comply with all applicable licensing requirements, building codes, and industry standards.
+- **You are solely responsible** for the accuracy, completeness, and professional quality of your inspection reports and for ensuring they meet all applicable professional standards and legal requirements.
+- **We do not guarantee outcomes.** Use of the App does not guarantee that your reports will satisfy any particular client, regulatory body, insurer, court, or other third party.
+- **Reports are visual inspections only** unless you explicitly note otherwise. The App's default report templates state that inspections are visual only and do not include invasive testing.
+- **No employer-employee or agency relationship** is created between you and InspectPro by your use of the App.
+
+## 10. PDF Report Disclaimers
+
+Every PDF report generated by the App includes a disclaimer stating:
+
+> "This report is intended solely for the use of the client named herein. This is a visual inspection only and does not include invasive testing unless specifically noted. The findings represent the inspector's professional opinion based on conditions observed at the time of inspection. InspectPro is a documentation tool and does not certify, endorse, or guarantee any findings contained in this report."
+
+This disclaimer is embedded in the report content for both preview and export. You agree not to remove, alter, or obscure this disclaimer from any report you generate or share.
+
+## 11. Offline Use
+
+The App is designed to work offline. When operating without an internet connection:
+
+- All features remain available using locally stored data
+- Subscription status is based on the last known state
+- An "Offline" indicator may be displayed
+- Data is stored locally and does not sync to any server regardless of connectivity status
+
+## 12. Disclaimer of Warranties
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+- ACCURACY OR RELIABILITY OF RESULTS
+- PROFESSIONAL ADEQUACY OR REGULATORY COMPLIANCE
+
+We do not warrant that:
+
+- The App will meet your specific requirements
+- The App will be uninterrupted, timely, secure, or error-free
+- Results obtained from using the App will be accurate or reliable
+- Reports generated by the App will satisfy any professional, regulatory, or legal standard
+- Any errors in the App will be corrected
+
+**You use the App entirely at your own risk.** No information or advice, whether oral or written, obtained from InspectPro shall create any warranty not expressly stated in these Terms.
+
+## 13. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL INSPECTPRO, ITS DEVELOPERS, OR AFFILIATES BE LIABLE FOR:
+
+- Any indirect, incidental, special, consequential, or punitive damages
+- Loss of profits, data, use, or goodwill
+- Any damages arising from your use or inability to use the App
+- Any claim by a third party arising from a report you created, shared, or relied upon
+- Any loss or damage resulting from reliance on reports generated by the App
+- Any professional liability, regulatory penalty, or legal consequence arising from your inspection work
+
+Our total liability shall not exceed the amount you paid for the App or purchases in the 12 months preceding the claim.
+
+## 14. Indemnification
+
+You agree to indemnify and hold harmless InspectPro and its developers from any claims, damages, losses, or expenses (including legal fees) arising from:
+
+- Your use of the App
+- Your violation of these Terms
+- Your violation of any rights of another party
+- Content you create or share using the App
+- Any report you generate, approve, distribute, or rely upon
+- Any claim by a client, property owner, insurer, or third party related to your inspection reports
+
+## 15. Acceptance, Versioning, and Changes
+
+### 15.1 Explicit Acceptance
+
+You must explicitly accept these Terms before using the App. Acceptance is recorded locally on your device and includes the acceptance timestamp, App version, and Terms version.
+
+### 15.2 Changes to Terms
+
+We reserve the right to modify these Terms at any time. We will notify you of material changes by:
+
+- Incrementing the Terms version number
+- Requiring re-acceptance of the updated Terms before you can continue using the App
+- Updating the "Last Updated" date
+
+If you do not accept updated Terms, you may stop using the App but remain bound by the version you previously accepted for any activity during that period.
+
+## 16. Termination
+
+We may terminate or suspend your access to the App at any time, without prior notice, for:
+
+- Violation of these Terms
+- Conduct that we determine is harmful to other users or the App
+- Any other reason at our sole discretion
+
+Upon termination:
+
+- Your license to use the App is revoked
+- You remain responsible for any outstanding charges
+- Your locally stored data remains on your device until you delete it
+
+## 17. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of New Zealand, without regard to conflict of law principles.
+
+## 18. Dispute Resolution
+
+Any disputes arising from these Terms or your use of the App shall be resolved through:
+
+1. Good faith negotiation between the parties
+2. If negotiation fails, binding arbitration in accordance with applicable rules
+
+You agree to waive any right to a jury trial or to participate in a class action.
+
+## 19. Severability
+
+If any provision of these Terms is found to be unenforceable, the remaining provisions will continue in full force and effect.
+
+## 20. Entire Agreement
+
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and InspectPro regarding the use of the App.
+
+## 21. Contact Us
+
+If you have questions about these Terms, need support, or wish to report an issue, please contact us at:
+
+**Email**: [dev@aiconsult.co.nz](mailto:dev@aiconsult.co.nz)
+
+---
+
+By using InspectPro, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use.
