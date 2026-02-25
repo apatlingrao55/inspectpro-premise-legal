@@ -3,13 +3,15 @@ layout: default
 title: Support
 ---
 
-# InspectPro Support
+# InspectPro Sync Support
+
+**Last Updated: February 2026**
 
 ## Contact Us
 
 For questions, bug reports, or feature requests, reach out to us at:
 
-**Email**: dev@aiconsult.co.nz
+**Email**: [dev@aiconsult.co.nz](mailto:dev@aiconsult.co.nz)
 
 ## Frequently Asked Questions
 
@@ -22,7 +24,7 @@ All data is stored locally on your device. We do not upload or have access to yo
 ### How do I generate a PDF report?
 Open an inspection and tap the **PDF Preview** button. From there you can preview, share, or export the report.
 
-### Is InspectPro really free?
+### Is InspectPro Sync really free?
 Yes. All features are available at no cost with no in-app purchases.
 
 ### Can I transfer my data to another device?
@@ -41,6 +43,6 @@ When reporting a bug, please include:
 
 ## Legal
 
-- [Terms of Use](https://apatlingrao55.github.io/inspectpro-sync-legal/)
-- [Privacy Policy](https://apatlingrao55.github.io/inspectpro-sync-legal/)
-- [EULA](https://apatlingrao55.github.io/inspectpro-sync-legal/)
+- [Terms of Use](terms-of-use)
+- [Privacy Policy](privacy-policy)
+- [EULA](eula)
