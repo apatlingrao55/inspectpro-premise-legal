@@ -125,7 +125,7 @@ We do not warrant that:
 
 ## 11. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL INSPECTPRO SYNC, ITS DEVELOPERS, OR AFFILIATES BE LIABLE FOR:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL INSPECTPRO PREMISE, ITS DEVELOPERS, OR AFFILIATES BE LIABLE FOR:
 
 - Any indirect, incidental, special, consequential, or punitive damages
 - Loss of profits, data, use, or goodwill
