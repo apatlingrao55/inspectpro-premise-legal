@@ -46,9 +46,9 @@ The App is provided free of charge. All features are available without payment.
 
 ### 5.2 Content Storage
 
-- All content is stored locally on your device
-- We do not have access to your content
-- You are responsible for backing up your own data
+- Your content is stored locally on your device and synced to your organisation's backend, which your organisation operates and controls
+- InspectPro does not have access to your content and operates no servers that store it
+- Backup, retention, and security of content held on your organisation's backend are governed by your organisation
 
 ### 5.3 Content Accuracy
 

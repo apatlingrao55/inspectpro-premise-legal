@@ -19,7 +19,7 @@ For questions, bug reports, or feature requests, reach out to us at:
 Tap the **+** button on the home screen, fill in the property and client details, then start adding areas and items to inspect.
 
 ### Where are my inspections stored?
-All data is stored locally on your device. We do not upload or have access to your inspection data.
+Your data is stored locally on your device and synced to your organisation's own backend, which your organisation operates and controls. InspectPro operates no servers and has no access to your inspection data.
 
 ### How do I generate a PDF report?
 Open an inspection and tap the **PDF Preview** button. From there you can preview, share, or export the report.

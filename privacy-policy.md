@@ -53,14 +53,15 @@ This data is never transmitted to any server.
 
 ## 3. How We Store Your Data
 
-**All your data is stored locally on your device.**
+**Your data is stored locally on your device and synced to your organisation's backend.**
 
-- Inspection photos are saved to your device's local storage
-- Client information, inspection data, and report metadata are stored in the app's local database
-- Terms and policy acceptance records are stored in the app's local database
-- **We do NOT upload your data to any external servers**
-- **We do NOT have access to your inspection data, report metadata, or acceptance records**
-- **We do NOT collect analytics, usage metrics, crash reports, or telemetry of any kind**
+InspectPro Premise is deployed by your organisation — your employer or the entity that provided you with the App — and is configured to synchronise your inspection data to a backend server that **your organisation operates and controls** ("your Organisation's Backend").
+
+- Inspection photos, client information, inspection data, and report metadata are stored in the App's local database on your device **and** synced to your Organisation's Backend.
+- Terms and policy acceptance records are stored locally on your device.
+- **InspectPro, the App developer, operates no servers and has no access** to your inspection data, report metadata, or acceptance records. We cannot see, retrieve, or store your data at any time.
+- **Your Organisation's Backend is not operated by InspectPro.** Your organisation determines where that server is hosted, how your data is secured and retained, who within your organisation can access it, and any transfer of that data across borders. Questions about backend storage, security, retention, and access should be directed to your organisation.
+- The App itself does not send analytics, usage metrics, crash reports, advertising identifiers, or telemetry to InspectPro.
 
 ## 4. How We Use Your Information
 
@@ -76,22 +77,24 @@ Your information is used solely to:
 
 **We do not sell, rent, or share your personal information with third parties.**
 
-Your data only leaves your device when:
+Your data leaves your device when:
 
+- It is synced to your Organisation's Backend as part of the App's normal operation, as described in Section 3. Your organisation controls that backend and any onward sharing or disclosure of data held there.
 - You explicitly choose to share a PDF report via email, messaging, or other apps. Shared PDFs contain the inspection content, photos, disclaimers, and report metadata (Report ID, date, version, approval status) that you have entered or the App has generated.
 - You explicitly choose to export a backup ZIP file containing your inspections, photos, and configuration data
 
-**We have no ability to access, retrieve, or view your data at any time.** Even if you contact us for support, we cannot see your inspections, photos, reports, or any other data stored in the App.
+**InspectPro has no ability to access, retrieve, or view your data at any time.** Even if you contact us for support, we cannot see your inspections, photos, reports, or any other data. Data held on your Organisation's Backend is accessible only to your organisation, not to InspectPro.
 
 ## 6. Data Security
 
-We implement appropriate security measures to protect your information:
+We implement appropriate security measures within the App to protect your information:
 
-- All data remains on your device under your device's security protections
-- We do not transmit your data over the internet
-- Photo and inspection data are only accessible within the app
+- Data on your device remains under your device's security protections
+- Photo and inspection data are only accessible within the App on your device
 - Admin PINs are stored as one-way hashes and cannot be recovered by us or read in plain text
 - Security question answers are stored as one-way hashes
+
+Data synced to your Organisation's Backend is transmitted over, and stored on, infrastructure that your organisation configures and controls. The security of that backend, the connection to it, and the data held on it are your organisation's responsibility. **InspectPro does not transmit your data to, or store it on, any InspectPro-operated server.**
 
 ## 7. Your Rights
 
@@ -124,15 +127,13 @@ Your data is retained on your device until:
 - You uninstall the application
 - You clear the app's data through device settings
 
-We do not retain any copy of your data on our servers, because we do not operate servers that collect or store user data.
+**InspectPro retains no copy of your data, because we do not operate servers that collect or store user data.** Data synced to your Organisation's Backend is retained according to your organisation's own retention policy, which is determined and controlled by your organisation and is outside InspectPro's control.
 
 ## 11. Third-Party Services
 
-The app uses the following third-party services:
+InspectPro Premise does not integrate any third-party analytics, advertising, tracking, or data-collection services.
 
-- **None**: The app does not integrate with any third-party services that collect user data
-
-No third-party analytics, advertising, tracking, or data-collection services are used.
+The App synchronises your data to your Organisation's Backend (see Section 3). That backend is operated by your organisation, not by a third party engaged by InspectPro. Any third-party infrastructure or services used to host or operate that backend are selected and controlled by your organisation.
 
 ## 12. California Privacy Rights (CCPA)
 
@@ -143,7 +144,7 @@ California residents have additional rights:
 - Right to opt-out of sale of personal information (we do not sell your data)
 - Right to non-discrimination for exercising your privacy rights
 
-Since all data is stored locally on your device and we have no access to it, you have full control over your information at all times.
+InspectPro holds no copy of your data and cannot access it. Data synced to your Organisation's Backend is held by your organisation; requests relating to that data should be directed to your organisation, which controls it.
 
 ## 13. European Privacy Rights (GDPR)
 
@@ -156,16 +157,17 @@ European users have additional rights under GDPR:
 - Right to restrict processing
 - Right to object to processing
 
-Since all data is stored locally on your device and we do not process your data on any server, you have full and sole control over your information at all times. No data transfers outside your device occur unless you explicitly initiate them.
+InspectPro does not process your data on any server it operates. Where your data is synced to your Organisation's Backend, your organisation is the data controller for that processing and is responsible for honouring these rights in respect of data held there. Requests should be directed to your organisation.
 
 ## 14. New Zealand Privacy Act 2020
 
-InspectPro Premise operates from New Zealand. Under the Privacy Act 2020:
+InspectPro Premise is developed in New Zealand. Under the Privacy Act 2020:
 
-- We collect only information that is necessary for the App's functions
-- Information is stored securely on your device
-- You have the right to access and correct your information at any time within the App
-- We do not disclose your information to any third party without your explicit action
+- The App collects only information that is necessary for its functions
+- Information is stored on your device and synced to your Organisation's Backend (see Section 3)
+- You have the right to access and correct your information within the App; for information held on your Organisation's Backend, your organisation is the responsible agency
+- InspectPro does not disclose your information, because InspectPro has no access to it
+- **Privacy breach notification:** A notifiable privacy breach involving your Organisation's Backend is the responsibility of your organisation, as the agency that operates and controls that backend. InspectPro operates no servers holding your data and therefore holds no data that could be subject to a breach on InspectPro's part.
 
 ## 15. Contact Us
 
