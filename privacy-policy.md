@@ -135,31 +135,7 @@ InspectPro Premise does not integrate any third-party analytics, advertising, tr
 
 The App synchronises your data to your Organisation's Backend (see Section 3). That backend is operated by your organisation, not by a third party engaged by InspectPro. Any third-party infrastructure or services used to host or operate that backend are selected and controlled by your organisation.
 
-## 12. California Privacy Rights (CCPA)
-
-California residents have additional rights:
-
-- Right to know what personal information is collected
-- Right to delete personal information
-- Right to opt-out of sale of personal information (we do not sell your data)
-- Right to non-discrimination for exercising your privacy rights
-
-InspectPro holds no copy of your data and cannot access it. Data synced to your Organisation's Backend is held by your organisation; requests relating to that data should be directed to your organisation, which controls it.
-
-## 13. European Privacy Rights (GDPR)
-
-European users have additional rights under GDPR:
-
-- Right to access your data
-- Right to rectification
-- Right to erasure
-- Right to data portability
-- Right to restrict processing
-- Right to object to processing
-
-InspectPro does not process your data on any server it operates. Where your data is synced to your Organisation's Backend, your organisation is the data controller for that processing and is responsible for honouring these rights in respect of data held there. Requests should be directed to your organisation.
-
-## 14. New Zealand Privacy Act 2020
+## 12. New Zealand Privacy Act 2020
 
 InspectPro Premise is developed in New Zealand. Under the Privacy Act 2020:
 
@@ -169,7 +145,17 @@ InspectPro Premise is developed in New Zealand. Under the Privacy Act 2020:
 - InspectPro does not disclose your information, because InspectPro has no access to it
 - **Privacy breach notification:** A notifiable privacy breach involving your Organisation's Backend is the responsibility of your organisation, as the agency that operates and controls that backend. InspectPro operates no servers holding your data and therefore holds no data that could be subject to a breach on InspectPro's part.
 
-## 15. Contact Us
+## 13. Australian Privacy Act 1988
+
+For users in Australia, the Privacy Act 1988 (Cth) and the Australian Privacy Principles (APPs) apply:
+
+- The App collects only information that is necessary for its functions
+- Information is stored on your device and synced to your Organisation's Backend (see Section 3)
+- You have the right to access and correct your information within the App; for information held on your Organisation's Backend, your organisation is the responsible APP entity
+- InspectPro does not disclose your information, because InspectPro has no access to it
+- **Notifiable Data Breaches:** An eligible data breach involving your Organisation's Backend is the responsibility of your organisation, as the entity that operates and controls that backend. InspectPro operates no servers holding your data and therefore holds no data that could be subject to a breach on InspectPro's part.
+
+## 14. Contact Us
 
 If you have questions about this Privacy Policy, our privacy practices, or wish to exercise any of your rights, please contact us at:
 
