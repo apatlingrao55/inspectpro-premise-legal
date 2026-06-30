@@ -5,8 +5,8 @@ title: Terms of Use
 
 # InspectPro Premise Terms of Use
 
-**Last Updated: February 2026**
-**Terms Version: 1.2**
+**Last Updated: June 2026**
+**Terms Version: 1.3**
 
 ## 1. Agreement to Terms
 
@@ -24,6 +24,8 @@ InspectPro Premise is a mobile application designed to assist property inspectio
 
 We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for your personal or professional use, subject to these Terms.
 
+**Organisation deployments.** Where the App has been provided to you by an organisation (for example, your employer), your use is also governed by the agreement between that organisation and InspectPro Premise (the "Corporate Agreement"). To the extent the Corporate Agreement and these Terms conflict in respect of organisation-deployed use, the Corporate Agreement prevails. Your organisation is responsible for its deployment of the App, including the backend it operates (see our [Privacy Policy](privacy-policy)).
+
 You may NOT:
 
 - Copy, modify, or distribute the App
@@ -40,7 +42,7 @@ The App is provided free of charge. All features are available without payment.
 
 ### 5.1 Your Content
 
-- You retain ownership of all content you create using the App (photos, notes, reports)
+- As between you and InspectPro Premise, you retain ownership of the content you create using the App (photos, notes, reports). Where you create content in the course of work for an organisation, ownership of that content as between you and your organisation is governed by your arrangement with that organisation, not by these Terms
 - You are solely responsible for all content you create and share
 - You represent that you have all necessary rights to use and share your content
 
@@ -136,6 +138,14 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL INSPECTPRO PREMISE, IT
 
 Our total liability shall not exceed one hundred New Zealand dollars (NZD $100).
 
+### 11.1 Consumer Law Rights
+
+Nothing in these Terms (including Sections 10 and 11) limits or excludes any guarantee, right, or remedy you may have under the Consumer Guarantees Act 1993 (NZ), the Fair Trading Act 1986 (NZ), the Australian Consumer Law, or any other law, to the extent it cannot lawfully be excluded.
+
+To the extent the Australian Consumer Law applies and permits, our liability for a failure to comply with a consumer guarantee is limited, at our option, to re-supplying the App or paying the cost of having it re-supplied.
+
+Where you acquire the App for the purposes of a business, you and InspectPro Premise agree — to the extent permitted by section 43 of the Consumer Guarantees Act 1993 and section 5D of the Fair Trading Act 1986 — that those Acts do not apply. The exclusions and limits in Sections 10 and 11 apply only to the extent permitted by law.
+
 ## 12. Indemnification
 
 You agree to indemnify and hold harmless InspectPro Premise and its developers from any claims, damages, losses, or expenses (including legal fees) arising from:
@@ -165,16 +175,14 @@ If you do not accept updated Terms, you may stop using the App but remain bound 
 
 ## 14. Termination
 
-We may terminate or suspend your access to the App at any time, without prior notice, for:
+Your licence under these Terms terminates automatically if you breach these Terms. We may also discontinue the App or stop making it available.
 
-- Violation of these Terms
-- Conduct that we determine is harmful to other users or the App
-- Any other reason at our sole discretion
+Where the App is deployed to you by an organisation, that organisation manages your access to the App and its deployment; we do not control access to organisation-managed deployments.
 
 Upon termination:
 
-- Your license to use the App is revoked
-- Your locally stored data remains on your device until you delete it
+- Your licence to use the App ends and you must stop using it
+- Your locally stored data remains on your device until you or your organisation removes it; data held on your organisation's backend is governed by your organisation
 
 ## 15. Governing Law
 
@@ -182,12 +190,12 @@ These Terms shall be governed by and construed in accordance with the laws of Ne
 
 ## 16. Dispute Resolution
 
-Any disputes arising from these Terms or your use of the App shall be resolved through:
+Any dispute arising from these Terms or your use of the App will be resolved as follows:
 
-1. Good faith negotiation between the parties
-2. If negotiation fails, binding arbitration in accordance with applicable rules
+1. Good faith negotiation between the parties.
+2. If negotiation does not resolve the dispute within a reasonable time, the parties will attempt to resolve it by mediation before commencing court proceedings.
 
-You agree to waive any right to a jury trial or to participate in a class action.
+Nothing in this section prevents either party from seeking urgent interim relief from a court, or limits any right you have under consumer protection law. The courts of New Zealand have jurisdiction over any dispute that is not resolved by negotiation or mediation.
 
 ## 17. Severability
 

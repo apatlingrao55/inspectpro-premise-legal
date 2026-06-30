@@ -5,8 +5,8 @@ title: EULA
 
 # InspectPro Premise End User License Agreement (EULA)
 
-**Last Updated: February 2026**
-**EULA Version: 1.0**
+**Last Updated: June 2026**
+**EULA Version: 1.1**
 
 ## Agreement
 
@@ -18,7 +18,7 @@ By downloading, installing, or using the App, you agree to be bound by the terms
 
 We grant you a limited, non-exclusive, non-transferable, revocable license to install and use the App on a compatible device that you own or control, or that is provided to you by your organisation for this purpose, in accordance with this EULA.
 
-Where your organisation has licensed or deployed the App to you, your use is also subject to your organisation's policies, and your organisation is responsible for managing its deployment of the App.
+Where your organisation has licensed or deployed the App to you, your use is also governed by the agreement between that organisation and InspectPro Premise (the "Corporate Agreement"), which prevails over this EULA to the extent of any conflict in respect of organisation-deployed use. Your organisation is responsible for managing its deployment of the App.
 
 If you obtained the App through the Apple App Store, your installation and use are additionally subject to the Usage Rules set out in the Apple Media Services Terms and Conditions.
 
@@ -37,7 +37,7 @@ The App, including all content, features, and functionality (code, design, graph
 
 ## User-Generated Content
 
-- You retain full ownership of all content you create using the App, including photos, inspection notes, and reports
+- As between you and InspectPro Premise, you retain ownership of the content you create using the App, including photos, inspection notes, and reports. Where the App is deployed to you by an organisation, ownership of that content as between you and your organisation is governed by your arrangement with them
 - User content is stored locally on your device and synced to your organisation's backend, which your organisation operates and controls
 - InspectPro does not access, collect, or claim any rights to your content
 
@@ -59,6 +59,8 @@ We do not warrant that:
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL INSPECTPRO PREMISE OR ITS DEVELOPERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR GOODWILL, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE APP.
 
 Our total aggregate liability shall not exceed one hundred New Zealand dollars (NZD $100).
+
+Nothing in this EULA limits or excludes any guarantee, right, or remedy you may have under the Consumer Guarantees Act 1993 (NZ), the Fair Trading Act 1986 (NZ), the Australian Consumer Law, or any other law, to the extent it cannot lawfully be excluded. Where you acquire the App for the purposes of a business, you and InspectPro Premise agree (to the extent permitted by section 43 of the Consumer Guarantees Act 1993 and section 5D of the Fair Trading Act 1986) that those Acts do not apply. The disclaimers and limits above apply only to the extent permitted by law.
 
 ## Indemnification
 

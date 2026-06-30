@@ -5,8 +5,8 @@ title: Privacy Policy
 
 # InspectPro Premise Privacy Policy
 
-**Last Updated: February 2026**
-**Privacy Policy Version: 1.0**
+**Last Updated: June 2026**
+**Privacy Policy Version: 1.1**
 
 ## 1. Introduction
 
@@ -107,7 +107,7 @@ You have the right to:
 
 ## 8. Children's Privacy
 
-InspectPro Premise is not intended for use by children under 13. We do not knowingly collect information from children under 13.
+InspectPro Premise is a professional tool intended for use by inspection professionals. It is not directed at children, and we do not knowingly collect information from children.
 
 ## 9. Acceptance, Versioning, and Changes
 
