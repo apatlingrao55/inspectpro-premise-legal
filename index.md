@@ -1,9 +1,9 @@
 ---
 layout: default
-title: InspectPro Sync — Legal
+title: InspectPro Premise — Legal
 ---
 
-# InspectPro Sync — Legal Documents
+# InspectPro Premise — Legal Documents
 
 - [Terms of Use](terms-of-use)
 - [Privacy Policy](privacy-policy)

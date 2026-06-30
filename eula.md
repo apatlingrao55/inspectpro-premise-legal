@@ -3,14 +3,14 @@ layout: default
 title: EULA
 ---
 
-# InspectPro Sync End User License Agreement (EULA)
+# InspectPro Premise End User License Agreement (EULA)
 
 **Last Updated: February 2026**
 **EULA Version: 1.0**
 
 ## Agreement
 
-This End User License Agreement ("EULA") is a legal agreement between you ("User") and InspectPro Sync ("we", "our", or "us") for the use of the InspectPro Sync mobile application ("the App").
+This End User License Agreement ("EULA") is a legal agreement between you ("User") and InspectPro Premise ("we", "our", or "us") for the use of the InspectPro Premise mobile application ("the App").
 
 By downloading, installing, or using the App, you agree to be bound by the terms of this EULA. If you do not agree, do not use the App.
 
@@ -29,7 +29,7 @@ You may NOT:
 
 ## Intellectual Property
 
-The App, including all content, features, and functionality (code, design, graphics, logos), is owned by InspectPro Sync and protected by intellectual property laws. This EULA does not grant you any rights to our trademarks or branding.
+The App, including all content, features, and functionality (code, design, graphics, logos), is owned by InspectPro Premise and protected by intellectual property laws. This EULA does not grant you any rights to our trademarks or branding.
 
 ## User-Generated Content
 
@@ -58,7 +58,7 @@ Our total aggregate liability shall not exceed one hundred New Zealand dollars (
 
 ## Indemnification
 
-You agree to indemnify, defend, and hold harmless InspectPro Sync and its developers from any claims, liabilities, damages, losses, or expenses arising from your use of the App or violation of this EULA.
+You agree to indemnify, defend, and hold harmless InspectPro Premise and its developers from any claims, liabilities, damages, losses, or expenses arising from your use of the App or violation of this EULA.
 
 ## Termination
 
@@ -76,7 +76,7 @@ If any provision of this EULA is found to be invalid or unenforceable, the remai
 
 You acknowledge and agree that:
 
-- This EULA is between you and InspectPro Sync only, and not with Apple Inc. ("Apple"). InspectPro Sync, not Apple, is solely responsible for the App and its content.
+- This EULA is between you and InspectPro Premise only, and not with Apple Inc. ("Apple"). InspectPro Premise, not Apple, is solely responsible for the App and its content.
 - Apple has no obligation whatsoever to furnish any maintenance or support services with respect to the App.
 - Apple is not responsible for addressing any claims by you or any third party relating to the App or your possession and/or use of the App, including but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation.
 - In the event of any failure of the App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the App to you. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App.
@@ -84,7 +84,7 @@ You acknowledge and agree that:
 
 ## Entire Agreement
 
-This EULA, together with our [Terms of Use](terms-of-use) and [Privacy Policy](privacy-policy), constitutes the entire agreement between you and InspectPro Sync regarding the App and supersedes all prior agreements.
+This EULA, together with our [Terms of Use](terms-of-use) and [Privacy Policy](privacy-policy), constitutes the entire agreement between you and InspectPro Premise regarding the App and supersedes all prior agreements.
 
 ## Contact Us
 
@@ -94,4 +94,4 @@ If you have questions about this EULA, please contact us at:
 
 ---
 
-By using InspectPro Sync, you acknowledge that you have read, understood, and agree to be bound by this End User License Agreement.
+By using InspectPro Premise, you acknowledge that you have read, understood, and agree to be bound by this End User License Agreement.

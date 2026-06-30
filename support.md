@@ -3,7 +3,7 @@ layout: default
 title: Support
 ---
 
-# InspectPro Sync Support
+# InspectPro Premise Support
 
 **Last Updated: February 2026**
 
@@ -24,7 +24,7 @@ All data is stored locally on your device. We do not upload or have access to yo
 ### How do I generate a PDF report?
 Open an inspection and tap the **PDF Preview** button. From there you can preview, share, or export the report.
 
-### Is InspectPro Sync really free?
+### Is InspectPro Premise really free?
 Yes. All features are available at no cost with no in-app purchases.
 
 ### Can I transfer my data to another device?

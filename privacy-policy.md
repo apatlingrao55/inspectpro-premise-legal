@@ -3,14 +3,14 @@ layout: default
 title: Privacy Policy
 ---
 
-# InspectPro Sync Privacy Policy
+# InspectPro Premise Privacy Policy
 
 **Last Updated: February 2026**
 **Privacy Policy Version: 1.0**
 
 ## 1. Introduction
 
-InspectPro Sync ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application ("the App").
+InspectPro Premise ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application ("the App").
 
 You will be asked to explicitly accept this Privacy Policy on first launch before you can use the App. Your acceptance is recorded locally on your device along with a timestamp, the App version, and the Privacy Policy version. If we update this Policy, you will be asked to re-accept the updated version before continuing to use the App.
 
@@ -104,7 +104,7 @@ You have the right to:
 
 ## 8. Children's Privacy
 
-InspectPro Sync is not intended for use by children under 13. We do not knowingly collect information from children under 13.
+InspectPro Premise is not intended for use by children under 13. We do not knowingly collect information from children under 13.
 
 ## 9. Acceptance, Versioning, and Changes
 
@@ -160,7 +160,7 @@ Since all data is stored locally on your device and we do not process your data 
 
 ## 14. New Zealand Privacy Act 2020
 
-InspectPro Sync operates from New Zealand. Under the Privacy Act 2020:
+InspectPro Premise operates from New Zealand. Under the Privacy Act 2020:
 
 - We collect only information that is necessary for the App's functions
 - Information is stored securely on your device
@@ -175,4 +175,4 @@ If you have questions about this Privacy Policy, our privacy practices, or wish 
 
 ---
 
-By using InspectPro Sync, you agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy should be read together with our [Terms of Use](terms-of-use) and [EULA](eula).
+By using InspectPro Premise, you agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy should be read together with our [Terms of Use](terms-of-use) and [EULA](eula).
