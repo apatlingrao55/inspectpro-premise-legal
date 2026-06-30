@@ -10,7 +10,7 @@ title: Privacy Policy
 
 ## 1. Introduction
 
-InspectPro Premise ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application ("the App").
+Selah AI Consulting Ltd ("we", "our", "us"), the developer of InspectPro Premise, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application ("the App").
 
 You will be asked to explicitly accept this Privacy Policy on first launch before you can use the App. Your acceptance is recorded locally on your device along with a timestamp, the App version, and the Privacy Policy version. If we update this Policy, you will be asked to re-accept the updated version before continuing to use the App.
 
