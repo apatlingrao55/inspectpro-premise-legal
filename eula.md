@@ -16,7 +16,11 @@ By downloading, installing, or using the App, you agree to be bound by the terms
 
 ## License Grant
 
-We grant you a limited, non-exclusive, non-transferable, revocable license to install and use the App on any Apple device that you own or control, subject to the Usage Rules set forth in the Apple Media Services Terms and Conditions.
+We grant you a limited, non-exclusive, non-transferable, revocable license to install and use the App on a compatible device that you own or control, or that is provided to you by your organisation for this purpose, in accordance with this EULA.
+
+Where your organisation has licensed or deployed the App to you, your use is also subject to your organisation's policies, and your organisation is responsible for managing its deployment of the App.
+
+If you obtained the App through the Apple App Store, your installation and use are additionally subject to the Usage Rules set out in the Apple Media Services Terms and Conditions.
 
 ## Restrictions
 
@@ -34,8 +38,8 @@ The App, including all content, features, and functionality (code, design, graph
 ## User-Generated Content
 
 - You retain full ownership of all content you create using the App, including photos, inspection notes, and reports
-- All user content is stored locally on your device
-- We do not access, collect, or claim any rights to your content
+- User content is stored locally on your device and synced to your organisation's backend, which your organisation operates and controls
+- InspectPro does not access, collect, or claim any rights to your content
 
 ## Cost
 
@@ -73,6 +77,8 @@ This EULA shall be governed by and construed in accordance with the laws of New 
 If any provision of this EULA is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
 
 ## Apple-Specific Terms
+
+The following terms apply only if you obtained the App through the Apple App Store. They do not apply to copies of the App that your organisation distributes or deploys to you through other channels (for example, mobile device management or enterprise distribution).
 
 You acknowledge and agree that:
 
